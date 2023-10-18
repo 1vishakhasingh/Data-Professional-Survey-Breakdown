@@ -1,10 +1,13 @@
 # Data-Professional-Survey-Breakdown
 The Data Professional Survey Breakdown dashboard is designed to assist in understanding the preferences, trends and challenges data professionals face.
 Dashboard Overview:
+
 1.Average Salary by Job Title:
 This section allows for comparisions between job roles and help identify positions with higher wages within the data professional community.
+
 2.Country Distribution:
 The dashboard visually represents the countries where survey was taken.
+
 3.Total Count of Survey Takers:
 The dashboard features aa visualization that showcase the total count of survey takers.
 4.Average Age of Survey Takers:
